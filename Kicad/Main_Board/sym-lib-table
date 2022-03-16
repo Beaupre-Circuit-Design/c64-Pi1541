@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "DIN_45322")(type "KiCad")(uri "${KIPRJMOD/../Shared/DIN_45322.pretty/DIN_45322.kicad_sym")(options "")(descr ""))
+  (lib (name "Display_I2C_OLED")(type "KiCad")(uri "${KIPRJMOD/../Shared/Display_I2C_OLED.pretty/Display_I2C_OLED.kicad_sym")(options "")(descr ""))
+  (lib (name "BeaupreCircuitDesign")(type "KiCad")(uri "${KIPRJMOD/../Shared/BeaupreCircuitDesign.pretty/BeaupreCircuitDesign.kicad_sym")(options "")(descr ""))
+  (lib (name "CreativeCommons")(type "KiCad")(uri "${KIPRJMOD/../Shared/Creative_Common.pretty/CreativeCommons.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "DIN_45322")(type "KiCad")(uri "${KIPRJMOD/../Shared/DIN_45322.pretty")(options "")(descr ""))
+  (lib (name "Display_I2C_OLED")(type "KiCad")(uri "${KIPRJMOD/../Shared/Display_I2C_OLED.pretty")(options "")(descr ""))
+  (lib (name "BeaupreCircuitDesign")(type "KiCad")(uri "${KIPRJMOD/../Shared/BeaupreCircuitDesign.pretty")(options "")(descr ""))
+  (lib (name "Creative_Common")(type "KiCad")(uri "${KIPRJMOD/../Shared/Creative_Common.pretty")(options "")(descr ""))
+)
